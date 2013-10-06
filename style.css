@@ -396,3 +396,10 @@ a[class^='tag-link-']:hover{
 	}
 	
 }
+
+#top-header {
+  text-align: center;
+}
+.site-graphic {
+  margin: 0 auto;
+}
